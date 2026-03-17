@@ -31,6 +31,16 @@ To recommend books that better match what the user is looking for.
 
 The system also includes a Gradio dashboard where users can describe the type of book they want and receive recommendations instantly.
 
+### Live Demo
+
+Try the live Book Recommendation System here:
+
+👉 https://huggingface.co/spaces/absg2205/book-recommedation-system
+
+or click below:
+
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20HuggingFace-Space-blue)](https://huggingface.co/spaces/absg2205/book-recommedation-system)
+
 #### Project Motivation
 
 Traditional recommendation systems usually rely on collaborative filtering or metadata such as genre or author. While those methods work well in some cases, they often fail when a user wants something more nuanced, such as:
