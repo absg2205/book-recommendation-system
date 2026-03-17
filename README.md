@@ -46,21 +46,23 @@ This project explores how combining semantic understanding, emotional tone detec
 The system is built as a multi-stage recommendation pipeline, where different components contribute different signals before producing the final recommendations.
 
 
-Architecture Diagram
+- Architecture Diagram
 
-![img.png](img.png)
-Example Dashboard
+<img width="959" height="1416" alt="system_architecture" src="https://github.com/user-attachments/assets/2bacb8d7-873a-4e57-a57d-a82e971fbbec" />
+
+- Example Dashboard
 Query Input
 
 Users can describe the type of book they want using natural language.
 
 Example query:
 
-A sad emotional story about love and loss
+A sad emotional story about love
 
-![img_3.png](img_3.png)
+<img width="1303" height="367" alt="dashboard-query" src="https://github.com/user-attachments/assets/741caa86-048e-4a18-a333-8cfcddea1f64" />
 
-Recommendation Output
+
+- Recommendation Output
 
 The system returns books along with short explanations describing why they were recommended.
 
@@ -68,7 +70,8 @@ Example explanation:
 
 The Fault in Our Stars by John Green
 
-![img_4.png](img_4.png)
+<img width="1288" height="509" alt="img_4" src="https://github.com/user-attachments/assets/9a053c58-9a7a-4e12-988c-b80ce86fd685" />
+
 
 
 #### Key Features
